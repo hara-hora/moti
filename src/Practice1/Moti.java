@@ -6,6 +6,7 @@ public class Moti {
 		
 		System.out.println("More Practice");
 		System.out.println("More Practice2");
+		System.out.println("More Practice3");
 	}
 		
 
